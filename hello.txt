@@ -1,5 +1,3 @@
 hello dunia
 
 menambahkan hasil kerja sebagai deskripsi
-ternyata ada perubahan 
-dalam aplikasi terdapat bug
