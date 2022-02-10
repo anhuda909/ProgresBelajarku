@@ -1,5 +1,4 @@
 hello dunia
 
-menambahkan hasil kerja sebagai deskripsi
 melakukan projek lanjutan menemukan bug  
 dan memperbaiki bug yang ada
