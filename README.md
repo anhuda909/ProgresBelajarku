@@ -33,3 +33,9 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+**30 Juni 2021**  
+
+hari kelulusan java
+* mendapatkan penghargaan dari kampus
+* mendapatkan rekomendasi kerja
+* dan dapat melanjutkan pendidikan ke jenjang lanjut
